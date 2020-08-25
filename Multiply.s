@@ -1,6 +1,6 @@
 @ Library to handle floating point multiplication. 
-@ Does handle only normalized numbers
-@ Does not handle overflow/underflow.
+@ Handles only normalized numbers
+@ Does NOT handle overflow/underflow.
 @
         .global     getSign
         .global     getExpo
