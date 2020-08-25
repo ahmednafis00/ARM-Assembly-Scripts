@@ -1,4 +1,4 @@
-@ This program compute how many times a number N1 (strictly positive) 
+@ This program computes how many times a number N1 (strictly positive) 
 @ goes into another number N2 (strictly positive)
 
 .equ  swiExit, 0x18
