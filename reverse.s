@@ -2,7 +2,7 @@
       @ prompts user to enter 5 symbols (letters, digit, etc.) that will be stored in an array
       @ then displays the symbols in reverse order
       @ ONLY displays those symbols that were typed in before an asterisk (*) was entered 
-      @ BONUS: incorporated code to print all letters (if any) in uppercase
+      @ UPDATE: incorporated code to print all letters (if any) in uppercase
 
 @ Sample run (1):       Sample run (2):
 @ >>>abcde              >>>abcd*     
